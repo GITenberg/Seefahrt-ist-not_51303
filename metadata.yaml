@@ -1,0 +1,26 @@
+_repo: Seefahrt-ist-not_51303
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fock, Gorch
+    alias: Kinau, Johann
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '46350'
+    url: http://www.gutenberg.org/2009/agents/46350
+description: ''
+gutenberg_issued: '2016-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51303'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishers -- Germany -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Germany. Kriegsmarine -- Fiction'
+- GITenberg
+title: Seefahrt ist not!
+url: http://www.gutenberg.org/ebooks/51303
